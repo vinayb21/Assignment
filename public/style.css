@@ -1,0 +1,32 @@
+button.like{
+  width: 30px;
+  height: 30px;
+  margin: 0 auto;
+  line-heigth: 50px;
+  border-radius: 50%;
+  color: white;
+  background-color:#53db63;
+  border-color: white;
+  border-width: 0px;
+  font-size: 15px;
+}
+
+button.dislike{
+  width: 30px;
+  height: 30px;
+  margin: 0 auto;
+  line-heigth: 50px;
+  border-radius: 50%;
+  color: rgba(255,82,82 ,1);
+  background-color: rgba(255,138,128 ,0.3);
+  border-color: white;
+  border-width: 0px;
+  font-size: 15px;
+}
+
+.noFocus {
+  text-decoration: none;
+  outline:none;
+  border: none;
+  box-shadow: none;
+}
