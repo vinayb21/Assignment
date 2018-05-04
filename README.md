@@ -5,7 +5,7 @@ Threaded comment widget assignment
 
 ## Step 1: Install required npm packages:
 
-**1.** Clone the repository__
+**1.** Clone the repository <br/>
 **2.** Enter the command "npm install" (if nodejs not installed then install it first).
 
 ## Step 2: Creating back-end: REST API, server and mysql database using nodejs and express framework ,MYSQL workbench and javascript
